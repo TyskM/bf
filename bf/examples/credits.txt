@@ -1,0 +1,2 @@
+
+examples taken from https://brainfuck-visualizer.herokuapp.com/

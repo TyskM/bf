@@ -19,4 +19,14 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="examples\ascii.bf" />
+    <None Include="examples\fib.bf" />
+    <None Include="examples\helloworld.bf" />
+    <None Include="examples\square.bf" />
+    <None Include="examples\stri.bf" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="examples\credits.txt" />
+  </ItemGroup>
 </Project>
