@@ -10,14 +10,14 @@
 #include <fstream>
 
 const int  cellCount = 255;
-const char valueIncrement	= '+';
-const char valueDecrement	= '-';
+const char valueIncrement   = '+';
+const char valueDecrement   = '-';
 const char pointerIncrement = '>';
 const char pointerDecrement = '<';
-const char loopStart		= '[';
-const char loopEnd			= ']';
-const char valueOutput		= '.';
-const char valueInput		= ',';
+const char loopStart        = '[';
+const char loopEnd          = ']';
+const char valueOutput      = '.';
+const char valueInput       = ',';
 
 
 size_t getMatchingBracePosition(std::string& str, size_t startPos)
